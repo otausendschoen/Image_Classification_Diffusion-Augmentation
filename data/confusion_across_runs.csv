@@ -1,0 +1,1401 @@
+0,1,2,3,4,5,6,7,8,9,experiment,run_id
+56,0,1,0,0,1,0,0,0,0,No Augmentation,1
+0,54,0,0,0,0,0,0,0,0,No Augmentation,1
+0,0,62,0,0,0,2,0,0,0,No Augmentation,1
+1,3,0,47,1,0,1,0,1,0,No Augmentation,1
+0,0,0,0,50,0,0,0,0,0,No Augmentation,1
+1,0,1,0,0,36,0,0,0,0,No Augmentation,1
+1,0,4,0,1,0,45,0,0,0,No Augmentation,1
+0,0,0,0,1,0,0,60,0,0,No Augmentation,1
+0,0,0,2,0,0,0,0,49,0,No Augmentation,1
+1,0,0,0,0,0,0,0,0,58,No Augmentation,1
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,1
+0,54,0,0,0,0,0,0,0,0,Geometric Augmentation,1
+0,0,64,0,0,0,0,0,0,0,Geometric Augmentation,1
+1,0,0,52,1,0,0,0,0,0,Geometric Augmentation,1
+0,0,0,0,49,0,1,0,0,0,Geometric Augmentation,1
+0,0,1,0,0,37,0,0,0,0,Geometric Augmentation,1
+1,0,3,0,1,0,46,0,0,0,Geometric Augmentation,1
+0,0,0,0,2,0,0,59,0,0,Geometric Augmentation,1
+0,0,0,1,0,0,0,0,50,0,Geometric Augmentation,1
+0,0,0,1,0,0,0,0,0,58,Geometric Augmentation,1
+56,0,0,1,0,1,0,0,0,0,5% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,1
+0,0,62,1,0,0,1,0,0,0,5% Synthetic Data,1
+2,2,0,49,0,0,0,0,1,0,5% Synthetic Data,1
+0,0,0,2,46,0,1,0,1,0,5% Synthetic Data,1
+0,1,0,0,0,37,0,0,0,0,5% Synthetic Data,1
+3,0,3,1,1,0,43,0,0,0,5% Synthetic Data,1
+0,0,0,0,0,0,0,61,0,0,5% Synthetic Data,1
+1,0,0,0,0,0,0,0,50,0,5% Synthetic Data,1
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,1
+58,0,0,0,0,0,0,0,0,0,10% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,1
+0,0,60,0,1,0,3,0,0,0,10% Synthetic Data,1
+2,0,0,50,1,0,1,0,0,0,10% Synthetic Data,1
+0,0,0,1,49,0,0,0,0,0,10% Synthetic Data,1
+0,1,0,0,0,36,0,0,1,0,10% Synthetic Data,1
+1,0,4,1,1,0,44,0,0,0,10% Synthetic Data,1
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,1
+0,0,0,0,0,0,0,0,51,0,10% Synthetic Data,1
+1,0,0,0,0,0,0,0,0,58,10% Synthetic Data,1
+57,0,0,1,0,0,0,0,0,0,20% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,1
+0,1,61,1,0,0,1,0,0,0,20% Synthetic Data,1
+1,1,0,52,0,0,0,0,0,0,20% Synthetic Data,1
+0,0,0,1,48,0,1,0,0,0,20% Synthetic Data,1
+1,1,1,0,0,34,0,0,1,0,20% Synthetic Data,1
+1,0,4,0,1,0,45,0,0,0,20% Synthetic Data,1
+0,0,0,0,1,0,0,60,0,0,20% Synthetic Data,1
+0,0,0,3,0,1,0,0,47,0,20% Synthetic Data,1
+0,0,0,0,0,0,0,0,0,59,20% Synthetic Data,1
+55,0,0,1,0,1,0,0,1,0,30% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,30% Synthetic Data,1
+0,0,61,0,0,0,3,0,0,0,30% Synthetic Data,1
+2,3,0,48,1,0,0,0,0,0,30% Synthetic Data,1
+0,0,0,0,50,0,0,0,0,0,30% Synthetic Data,1
+1,0,2,0,0,35,0,0,0,0,30% Synthetic Data,1
+1,0,8,0,1,0,41,0,0,0,30% Synthetic Data,1
+0,0,0,0,1,0,0,60,0,0,30% Synthetic Data,1
+1,0,1,1,0,0,0,0,48,0,30% Synthetic Data,1
+0,0,0,0,0,0,0,0,0,59,30% Synthetic Data,1
+57,0,0,1,0,0,0,0,0,0,40% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,1
+0,1,60,0,0,0,3,0,0,0,40% Synthetic Data,1
+2,1,0,50,1,0,0,0,0,0,40% Synthetic Data,1
+0,0,0,1,49,0,0,0,0,0,40% Synthetic Data,1
+0,1,0,0,0,37,0,0,0,0,40% Synthetic Data,1
+2,0,4,0,1,0,44,0,0,0,40% Synthetic Data,1
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,1
+0,0,0,0,0,0,0,0,51,0,40% Synthetic Data,1
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,1
+58,0,0,0,0,0,0,0,0,0,50% Synthetic Data,1
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,1
+0,1,60,1,0,0,2,0,0,0,50% Synthetic Data,1
+3,1,0,49,0,0,1,0,0,0,50% Synthetic Data,1
+0,0,0,0,50,0,0,0,0,0,50% Synthetic Data,1
+1,0,2,0,0,35,0,0,0,0,50% Synthetic Data,1
+3,0,4,0,1,0,43,0,0,0,50% Synthetic Data,1
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,1
+0,0,0,2,0,0,0,0,49,0,50% Synthetic Data,1
+0,0,0,0,0,0,0,0,0,59,50% Synthetic Data,1
+56,0,1,0,0,0,0,0,1,0,5% Synthetic + Geometric,1
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,1
+0,0,62,0,0,0,2,0,0,0,5% Synthetic + Geometric,1
+0,0,0,52,1,0,0,0,1,0,5% Synthetic + Geometric,1
+0,0,0,1,49,0,0,0,0,0,5% Synthetic + Geometric,1
+1,1,0,0,0,36,0,0,0,0,5% Synthetic + Geometric,1
+1,1,1,0,1,0,47,0,0,0,5% Synthetic + Geometric,1
+0,0,0,0,2,0,0,59,0,0,5% Synthetic + Geometric,1
+0,0,0,2,0,0,0,0,49,0,5% Synthetic + Geometric,1
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,1
+57,0,0,0,0,0,0,0,1,0,10% Synthetic + Geometric,1
+0,53,0,0,0,1,0,0,0,0,10% Synthetic + Geometric,1
+0,1,61,0,0,0,2,0,0,0,10% Synthetic + Geometric,1
+0,1,0,52,1,0,0,0,0,0,10% Synthetic + Geometric,1
+0,0,0,0,49,0,1,0,0,0,10% Synthetic + Geometric,1
+0,1,0,0,0,37,0,0,0,0,10% Synthetic + Geometric,1
+1,0,2,0,1,0,47,0,0,0,10% Synthetic + Geometric,1
+0,0,0,0,2,0,0,59,0,0,10% Synthetic + Geometric,1
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,1
+1,0,0,0,0,0,0,0,0,58,10% Synthetic + Geometric,1
+58,0,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,1
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,1
+0,0,62,0,0,0,2,0,0,0,20% Synthetic + Geometric,1
+0,1,0,52,1,0,0,0,0,0,20% Synthetic + Geometric,1
+0,0,0,2,48,0,0,0,0,0,20% Synthetic + Geometric,1
+0,0,1,0,0,37,0,0,0,0,20% Synthetic + Geometric,1
+1,0,4,1,1,0,44,0,0,0,20% Synthetic + Geometric,1
+0,0,0,0,1,0,0,60,0,0,20% Synthetic + Geometric,1
+0,0,0,2,0,0,0,0,49,0,20% Synthetic + Geometric,1
+0,0,0,1,0,1,0,0,0,57,20% Synthetic + Geometric,1
+56,0,0,0,0,1,0,0,1,0,30% Synthetic + Geometric,1
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,1
+0,2,56,1,1,2,2,0,0,0,30% Synthetic + Geometric,1
+1,1,0,50,1,0,0,0,1,0,30% Synthetic + Geometric,1
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,1
+0,1,1,0,0,36,0,0,0,0,30% Synthetic + Geometric,1
+1,0,4,1,1,0,44,0,0,0,30% Synthetic + Geometric,1
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,1
+0,0,0,1,0,0,0,0,50,0,30% Synthetic + Geometric,1
+1,0,0,0,0,0,0,0,0,58,30% Synthetic + Geometric,1
+57,0,0,1,0,0,0,0,0,0,40% Synthetic + Geometric,1
+0,53,1,0,0,0,0,0,0,0,40% Synthetic + Geometric,1
+0,0,62,0,0,0,2,0,0,0,40% Synthetic + Geometric,1
+0,1,0,50,1,0,1,0,1,0,40% Synthetic + Geometric,1
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,1
+0,1,1,0,0,36,0,0,0,0,40% Synthetic + Geometric,1
+1,1,2,0,1,0,46,0,0,0,40% Synthetic + Geometric,1
+0,0,0,0,2,0,0,59,0,0,40% Synthetic + Geometric,1
+0,0,0,1,0,0,0,0,50,0,40% Synthetic + Geometric,1
+0,0,1,0,0,0,0,0,1,57,40% Synthetic + Geometric,1
+58,0,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,1
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,1
+0,0,62,0,0,0,2,0,0,0,50% Synthetic + Geometric,1
+1,1,0,51,1,0,0,0,0,0,50% Synthetic + Geometric,1
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,1
+1,1,0,0,0,35,0,0,1,0,50% Synthetic + Geometric,1
+1,0,1,1,1,0,47,0,0,0,50% Synthetic + Geometric,1
+0,0,0,0,1,0,0,60,0,0,50% Synthetic + Geometric,1
+0,0,0,2,0,0,0,0,49,0,50% Synthetic + Geometric,1
+0,0,0,1,0,0,0,0,0,58,50% Synthetic + Geometric,1
+57,0,0,0,0,1,0,0,0,0,No Augmentation,2
+0,54,0,0,0,0,0,0,0,0,No Augmentation,2
+0,1,62,0,0,0,1,0,0,0,No Augmentation,2
+1,1,0,51,1,0,0,0,0,0,No Augmentation,2
+0,0,0,1,48,0,1,0,0,0,No Augmentation,2
+1,0,1,0,0,36,0,0,0,0,No Augmentation,2
+1,0,2,0,1,0,47,0,0,0,No Augmentation,2
+0,0,0,0,2,0,0,59,0,0,No Augmentation,2
+0,0,0,0,0,0,0,0,51,0,No Augmentation,2
+1,0,0,0,0,0,0,0,0,58,No Augmentation,2
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,2
+0,54,0,0,0,0,0,0,0,0,Geometric Augmentation,2
+0,0,62,0,0,0,2,0,0,0,Geometric Augmentation,2
+0,1,0,52,1,0,0,0,0,0,Geometric Augmentation,2
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,2
+0,0,1,0,0,37,0,0,0,0,Geometric Augmentation,2
+1,0,1,1,1,0,47,0,0,0,Geometric Augmentation,2
+0,0,0,0,1,0,0,60,0,0,Geometric Augmentation,2
+0,0,0,0,0,0,0,0,51,0,Geometric Augmentation,2
+1,0,0,0,0,0,0,0,0,58,Geometric Augmentation,2
+56,0,0,1,0,1,0,0,0,0,5% Synthetic Data,2
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,2
+0,1,61,0,0,0,2,0,0,0,5% Synthetic Data,2
+2,2,0,48,1,0,1,0,0,0,5% Synthetic Data,2
+0,0,0,0,48,0,2,0,0,0,5% Synthetic Data,2
+0,1,0,0,0,37,0,0,0,0,5% Synthetic Data,2
+0,0,4,0,1,0,46,0,0,0,5% Synthetic Data,2
+0,0,0,0,0,0,0,61,0,0,5% Synthetic Data,2
+1,1,0,2,0,0,0,0,47,0,5% Synthetic Data,2
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,2
+58,0,0,0,0,0,0,0,0,0,10% Synthetic Data,2
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,2
+0,0,63,0,0,0,1,0,0,0,10% Synthetic Data,2
+2,0,0,51,1,0,0,0,0,0,10% Synthetic Data,2
+0,0,0,0,50,0,0,0,0,0,10% Synthetic Data,2
+1,0,1,0,0,35,0,0,1,0,10% Synthetic Data,2
+2,0,2,0,1,0,46,0,0,0,10% Synthetic Data,2
+0,0,0,0,1,0,0,60,0,0,10% Synthetic Data,2
+1,0,0,1,0,0,0,0,49,0,10% Synthetic Data,2
+0,0,0,0,0,0,0,0,0,59,10% Synthetic Data,2
+56,0,1,0,0,0,0,0,1,0,20% Synthetic Data,2
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,2
+0,0,61,1,1,0,1,0,0,0,20% Synthetic Data,2
+2,0,0,51,1,0,0,0,0,0,20% Synthetic Data,2
+0,0,0,0,50,0,0,0,0,0,20% Synthetic Data,2
+1,1,1,0,0,34,0,0,1,0,20% Synthetic Data,2
+1,0,3,1,1,0,45,0,0,0,20% Synthetic Data,2
+0,0,0,0,3,0,0,58,0,0,20% Synthetic Data,2
+1,0,1,2,0,0,0,0,47,0,20% Synthetic Data,2
+0,0,0,1,0,0,0,0,0,58,20% Synthetic Data,2
+57,0,0,1,0,0,0,0,0,0,30% Synthetic Data,2
+0,53,0,0,0,1,0,0,0,0,30% Synthetic Data,2
+0,0,60,1,1,0,2,0,0,0,30% Synthetic Data,2
+2,1,0,49,0,0,1,0,1,0,30% Synthetic Data,2
+0,0,0,2,48,0,0,0,0,0,30% Synthetic Data,2
+0,1,1,0,0,36,0,0,0,0,30% Synthetic Data,2
+2,1,4,0,1,0,43,0,0,0,30% Synthetic Data,2
+0,0,0,0,2,0,0,59,0,0,30% Synthetic Data,2
+2,0,0,2,0,0,0,0,47,0,30% Synthetic Data,2
+0,0,0,0,0,0,0,0,0,59,30% Synthetic Data,2
+57,0,1,0,0,0,0,0,0,0,40% Synthetic Data,2
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,2
+0,0,62,1,0,0,1,0,0,0,40% Synthetic Data,2
+2,1,0,50,1,0,0,0,0,0,40% Synthetic Data,2
+0,0,0,0,49,0,1,0,0,0,40% Synthetic Data,2
+1,0,2,0,0,34,0,0,1,0,40% Synthetic Data,2
+2,0,4,0,1,0,44,0,0,0,40% Synthetic Data,2
+0,0,0,0,1,0,0,60,0,0,40% Synthetic Data,2
+0,0,0,1,0,0,0,0,50,0,40% Synthetic Data,2
+1,0,0,0,0,0,0,0,0,58,40% Synthetic Data,2
+57,0,0,1,0,0,0,0,0,0,50% Synthetic Data,2
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,2
+0,0,61,0,0,0,2,0,1,0,50% Synthetic Data,2
+3,1,0,49,1,0,0,0,0,0,50% Synthetic Data,2
+0,0,0,0,50,0,0,0,0,0,50% Synthetic Data,2
+0,0,2,0,0,36,0,0,0,0,50% Synthetic Data,2
+1,0,4,0,1,0,45,0,0,0,50% Synthetic Data,2
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,2
+0,0,0,2,0,0,0,0,49,0,50% Synthetic Data,2
+1,0,0,0,0,0,0,0,0,58,50% Synthetic Data,2
+57,0,0,0,0,1,0,0,0,0,5% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,2
+0,0,61,1,0,0,2,0,0,0,5% Synthetic + Geometric,2
+2,1,0,50,1,0,0,0,0,0,5% Synthetic + Geometric,2
+0,0,0,0,50,0,0,0,0,0,5% Synthetic + Geometric,2
+1,0,0,0,0,36,0,0,1,0,5% Synthetic + Geometric,2
+1,1,2,1,1,0,45,0,0,0,5% Synthetic + Geometric,2
+0,0,0,0,1,0,0,60,0,0,5% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,50,0,5% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,2
+57,0,1,0,0,0,0,0,0,0,10% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,2
+0,0,61,0,0,0,3,0,0,0,10% Synthetic + Geometric,2
+0,1,0,52,1,0,0,0,0,0,10% Synthetic + Geometric,2
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,2
+1,1,1,0,0,35,0,0,0,0,10% Synthetic + Geometric,2
+1,0,1,0,1,0,48,0,0,0,10% Synthetic + Geometric,2
+0,0,0,0,2,0,0,59,0,0,10% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,50,0,10% Synthetic + Geometric,2
+0,0,0,1,0,1,0,0,1,56,10% Synthetic + Geometric,2
+55,0,1,0,0,1,0,0,1,0,20% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,2
+0,1,59,1,0,1,1,1,0,0,20% Synthetic + Geometric,2
+0,0,0,52,1,0,0,0,1,0,20% Synthetic + Geometric,2
+0,0,0,0,50,0,0,0,0,0,20% Synthetic + Geometric,2
+0,1,0,0,0,37,0,0,0,0,20% Synthetic + Geometric,2
+1,1,1,1,1,0,46,0,0,0,20% Synthetic + Geometric,2
+0,0,0,0,0,0,0,61,0,0,20% Synthetic + Geometric,2
+0,0,0,2,0,0,0,0,49,0,20% Synthetic + Geometric,2
+0,0,0,1,0,1,0,0,0,57,20% Synthetic + Geometric,2
+56,0,1,0,0,0,0,0,1,0,30% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,2
+0,1,62,0,0,0,1,0,0,0,30% Synthetic + Geometric,2
+1,1,0,49,1,0,1,0,1,0,30% Synthetic + Geometric,2
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,2
+1,1,0,0,0,34,0,0,1,1,30% Synthetic + Geometric,2
+2,1,4,1,2,0,41,0,0,0,30% Synthetic + Geometric,2
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,50,0,30% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,0,58,30% Synthetic + Geometric,2
+57,0,0,0,0,1,0,0,0,0,40% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,2
+0,0,60,1,1,0,2,0,0,0,40% Synthetic + Geometric,2
+0,0,0,52,1,0,0,0,1,0,40% Synthetic + Geometric,2
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,2
+1,0,2,0,0,35,0,0,0,0,40% Synthetic + Geometric,2
+1,0,1,1,1,0,47,0,0,0,40% Synthetic + Geometric,2
+0,0,0,0,0,0,0,61,0,0,40% Synthetic + Geometric,2
+0,0,0,0,0,0,0,0,51,0,40% Synthetic + Geometric,2
+0,0,0,1,0,0,0,0,0,58,40% Synthetic + Geometric,2
+55,0,1,1,0,0,0,0,1,0,50% Synthetic + Geometric,2
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,2
+0,0,61,0,0,0,3,0,0,0,50% Synthetic + Geometric,2
+0,1,0,51,1,0,0,0,1,0,50% Synthetic + Geometric,2
+0,0,0,1,49,0,0,0,0,0,50% Synthetic + Geometric,2
+1,1,0,0,0,36,0,0,0,0,50% Synthetic + Geometric,2
+1,1,2,0,1,0,46,0,0,0,50% Synthetic + Geometric,2
+0,0,0,0,2,0,0,59,0,0,50% Synthetic + Geometric,2
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,2
+0,0,0,0,0,0,0,0,1,58,50% Synthetic + Geometric,2
+56,0,1,0,0,1,0,0,0,0,No Augmentation,3
+0,53,0,0,0,1,0,0,0,0,No Augmentation,3
+0,1,61,0,0,0,2,0,0,0,No Augmentation,3
+1,0,0,51,1,0,1,0,0,0,No Augmentation,3
+0,0,0,0,49,0,0,0,1,0,No Augmentation,3
+1,0,1,0,0,35,0,0,1,0,No Augmentation,3
+1,0,2,1,1,0,46,0,0,0,No Augmentation,3
+0,0,0,0,2,0,0,59,0,0,No Augmentation,3
+1,0,0,0,0,0,0,0,50,0,No Augmentation,3
+1,0,0,0,0,0,0,0,0,58,No Augmentation,3
+56,0,1,1,0,0,0,0,0,0,Geometric Augmentation,3
+0,54,0,0,0,0,0,0,0,0,Geometric Augmentation,3
+0,0,62,1,0,0,1,0,0,0,Geometric Augmentation,3
+0,0,0,53,1,0,0,0,0,0,Geometric Augmentation,3
+0,0,0,1,49,0,0,0,0,0,Geometric Augmentation,3
+1,1,0,0,0,36,0,0,0,0,Geometric Augmentation,3
+0,0,3,1,1,0,46,0,0,0,Geometric Augmentation,3
+0,0,0,0,1,0,0,60,0,0,Geometric Augmentation,3
+0,0,0,1,0,0,0,0,50,0,Geometric Augmentation,3
+0,0,1,1,0,0,0,0,0,57,Geometric Augmentation,3
+56,0,0,0,0,1,1,0,0,0,5% Synthetic Data,3
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,3
+0,0,61,0,0,0,3,0,0,0,5% Synthetic Data,3
+2,1,0,51,0,0,0,0,0,0,5% Synthetic Data,3
+0,0,0,0,50,0,0,0,0,0,5% Synthetic Data,3
+0,0,1,0,0,37,0,0,0,0,5% Synthetic Data,3
+1,0,1,0,1,0,48,0,0,0,5% Synthetic Data,3
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,3
+0,0,0,2,0,0,0,0,49,0,5% Synthetic Data,3
+0,0,0,0,0,0,0,0,0,59,5% Synthetic Data,3
+57,0,1,0,0,0,0,0,0,0,10% Synthetic Data,3
+0,53,0,0,0,1,0,0,0,0,10% Synthetic Data,3
+0,0,62,1,0,0,1,0,0,0,10% Synthetic Data,3
+1,1,0,49,1,0,1,0,1,0,10% Synthetic Data,3
+0,0,0,0,49,0,1,0,0,0,10% Synthetic Data,3
+1,0,1,0,0,35,0,0,1,0,10% Synthetic Data,3
+0,0,4,0,1,0,46,0,0,0,10% Synthetic Data,3
+0,0,0,0,0,0,0,61,0,0,10% Synthetic Data,3
+1,0,0,2,0,0,0,0,48,0,10% Synthetic Data,3
+1,0,0,0,0,0,0,0,0,58,10% Synthetic Data,3
+58,0,0,0,0,0,0,0,0,0,20% Synthetic Data,3
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,3
+0,1,61,1,0,0,1,0,0,0,20% Synthetic Data,3
+1,0,0,53,0,0,0,0,0,0,20% Synthetic Data,3
+0,0,0,0,50,0,0,0,0,0,20% Synthetic Data,3
+1,0,2,0,0,34,0,0,1,0,20% Synthetic Data,3
+2,0,3,0,1,0,45,0,0,0,20% Synthetic Data,3
+0,0,0,0,2,0,0,59,0,0,20% Synthetic Data,3
+0,0,0,0,0,0,0,0,51,0,20% Synthetic Data,3
+1,0,0,0,0,0,0,0,0,58,20% Synthetic Data,3
+55,0,0,1,0,1,0,0,1,0,30% Synthetic Data,3
+0,54,0,0,0,0,0,0,0,0,30% Synthetic Data,3
+0,0,59,1,1,0,2,0,1,0,30% Synthetic Data,3
+1,2,0,48,1,0,0,1,1,0,30% Synthetic Data,3
+0,0,0,0,50,0,0,0,0,0,30% Synthetic Data,3
+0,0,2,0,0,35,0,0,1,0,30% Synthetic Data,3
+1,0,4,0,1,0,45,0,0,0,30% Synthetic Data,3
+0,0,0,0,3,0,0,58,0,0,30% Synthetic Data,3
+0,0,0,1,0,1,0,0,49,0,30% Synthetic Data,3
+0,0,0,0,0,0,0,0,1,58,30% Synthetic Data,3
+57,0,0,1,0,0,0,0,0,0,40% Synthetic Data,3
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,3
+0,0,61,0,0,0,3,0,0,0,40% Synthetic Data,3
+2,1,0,49,1,0,0,0,1,0,40% Synthetic Data,3
+0,0,0,1,48,0,1,0,0,0,40% Synthetic Data,3
+0,1,1,0,0,35,0,0,1,0,40% Synthetic Data,3
+2,0,4,0,1,0,44,0,0,0,40% Synthetic Data,3
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,3
+1,1,0,1,0,0,0,0,48,0,40% Synthetic Data,3
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,3
+58,0,0,0,0,0,0,0,0,0,50% Synthetic Data,3
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,3
+0,1,61,1,0,0,1,0,0,0,50% Synthetic Data,3
+2,1,0,50,1,0,0,0,0,0,50% Synthetic Data,3
+0,0,0,1,48,0,1,0,0,0,50% Synthetic Data,3
+0,0,2,0,0,36,0,0,0,0,50% Synthetic Data,3
+1,0,3,0,1,0,46,0,0,0,50% Synthetic Data,3
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,3
+1,0,0,0,0,1,0,0,49,0,50% Synthetic Data,3
+1,0,0,0,0,0,0,0,0,58,50% Synthetic Data,3
+57,0,1,0,0,0,0,0,0,0,5% Synthetic + Geometric,3
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,3
+0,1,60,0,0,0,3,0,0,0,5% Synthetic + Geometric,3
+2,0,0,52,0,0,0,0,0,0,5% Synthetic + Geometric,3
+0,0,0,1,49,0,0,0,0,0,5% Synthetic + Geometric,3
+1,1,0,0,0,35,0,0,1,0,5% Synthetic + Geometric,3
+1,0,3,0,1,0,46,0,0,0,5% Synthetic + Geometric,3
+0,0,0,0,0,0,0,61,0,0,5% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,50,0,5% Synthetic + Geometric,3
+1,0,0,0,0,0,0,0,0,58,5% Synthetic + Geometric,3
+56,0,1,0,0,1,0,0,0,0,10% Synthetic + Geometric,3
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,3
+0,0,61,0,0,0,3,0,0,0,10% Synthetic + Geometric,3
+0,0,0,50,1,0,0,0,3,0,10% Synthetic + Geometric,3
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,3
+0,1,0,0,0,37,0,0,0,0,10% Synthetic + Geometric,3
+1,0,2,0,1,0,47,0,0,0,10% Synthetic + Geometric,3
+0,0,0,0,1,0,0,60,0,0,10% Synthetic + Geometric,3
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,0,58,10% Synthetic + Geometric,3
+58,0,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,3
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,3
+0,0,61,1,0,0,2,0,0,0,20% Synthetic + Geometric,3
+0,0,0,52,1,0,0,0,1,0,20% Synthetic + Geometric,3
+0,0,0,1,49,0,0,0,0,0,20% Synthetic + Geometric,3
+0,1,1,0,0,36,0,0,0,0,20% Synthetic + Geometric,3
+1,0,1,0,1,0,48,0,0,0,20% Synthetic + Geometric,3
+0,0,0,0,2,0,0,59,0,0,20% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,50,0,20% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,0,58,20% Synthetic + Geometric,3
+56,0,1,0,0,1,0,0,0,0,30% Synthetic + Geometric,3
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,3
+0,1,59,1,0,0,2,1,0,0,30% Synthetic + Geometric,3
+0,1,0,51,1,0,0,0,1,0,30% Synthetic + Geometric,3
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,3
+1,2,1,0,0,33,0,0,0,1,30% Synthetic + Geometric,3
+1,0,3,1,1,0,45,0,0,0,30% Synthetic + Geometric,3
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,3
+0,0,0,3,0,1,0,0,47,0,30% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,0,58,30% Synthetic + Geometric,3
+56,0,0,1,0,0,0,0,1,0,40% Synthetic + Geometric,3
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,3
+0,0,61,1,0,0,2,0,0,0,40% Synthetic + Geometric,3
+1,0,0,51,1,0,0,0,1,0,40% Synthetic + Geometric,3
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,3
+1,0,2,0,0,34,0,0,1,0,40% Synthetic + Geometric,3
+1,0,2,0,1,0,47,0,0,0,40% Synthetic + Geometric,3
+0,0,0,0,1,0,0,60,0,0,40% Synthetic + Geometric,3
+0,0,0,0,0,0,0,0,51,0,40% Synthetic + Geometric,3
+1,0,0,0,0,0,0,0,0,58,40% Synthetic + Geometric,3
+56,0,1,0,0,0,0,0,1,0,50% Synthetic + Geometric,3
+0,53,0,0,0,1,0,0,0,0,50% Synthetic + Geometric,3
+0,0,61,0,0,0,3,0,0,0,50% Synthetic + Geometric,3
+1,0,0,51,1,0,1,0,0,0,50% Synthetic + Geometric,3
+0,0,0,2,48,0,0,0,0,0,50% Synthetic + Geometric,3
+1,1,0,0,0,36,0,0,0,0,50% Synthetic + Geometric,3
+0,0,2,0,1,0,48,0,0,0,50% Synthetic + Geometric,3
+0,0,0,0,1,0,0,60,0,0,50% Synthetic + Geometric,3
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,3
+0,0,0,1,0,0,0,0,0,58,50% Synthetic + Geometric,3
+57,0,0,0,0,1,0,0,0,0,No Augmentation,4
+0,53,0,0,0,1,0,0,0,0,No Augmentation,4
+0,0,62,0,0,0,2,0,0,0,No Augmentation,4
+2,1,0,49,1,0,1,0,0,0,No Augmentation,4
+0,0,0,1,49,0,0,0,0,0,No Augmentation,4
+0,1,0,0,0,37,0,0,0,0,No Augmentation,4
+1,0,3,1,0,0,46,0,0,0,No Augmentation,4
+0,0,0,0,2,0,0,59,0,0,No Augmentation,4
+1,0,0,1,0,0,0,0,49,0,No Augmentation,4
+1,0,0,0,0,0,0,0,0,58,No Augmentation,4
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,4
+0,53,0,0,0,1,0,0,0,0,Geometric Augmentation,4
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,4
+0,0,0,52,1,0,0,0,1,0,Geometric Augmentation,4
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,4
+0,0,0,0,0,38,0,0,0,0,Geometric Augmentation,4
+0,0,2,0,1,0,48,0,0,0,Geometric Augmentation,4
+0,0,0,0,2,0,0,59,0,0,Geometric Augmentation,4
+0,0,0,2,0,0,0,0,49,0,Geometric Augmentation,4
+0,0,0,1,0,1,0,0,0,57,Geometric Augmentation,4
+55,0,1,0,0,1,1,0,0,0,5% Synthetic Data,4
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,4
+0,1,62,0,0,0,1,0,0,0,5% Synthetic Data,4
+1,0,0,52,1,0,0,0,0,0,5% Synthetic Data,4
+0,0,0,1,49,0,0,0,0,0,5% Synthetic Data,4
+1,1,0,0,0,36,0,0,0,0,5% Synthetic Data,4
+2,0,3,0,1,0,45,0,0,0,5% Synthetic Data,4
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,4
+0,0,0,3,0,0,0,0,48,0,5% Synthetic Data,4
+0,0,0,0,0,0,0,0,0,59,5% Synthetic Data,4
+55,0,1,0,0,2,0,0,0,0,10% Synthetic Data,4
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,4
+0,0,63,0,0,0,1,0,0,0,10% Synthetic Data,4
+2,1,0,50,1,0,0,0,0,0,10% Synthetic Data,4
+0,0,0,0,50,0,0,0,0,0,10% Synthetic Data,4
+0,1,0,0,0,36,0,0,1,0,10% Synthetic Data,4
+2,0,4,0,1,0,44,0,0,0,10% Synthetic Data,4
+0,0,0,0,1,0,0,60,0,0,10% Synthetic Data,4
+1,0,0,1,0,0,0,0,49,0,10% Synthetic Data,4
+0,0,0,0,0,0,0,0,0,59,10% Synthetic Data,4
+58,0,0,0,0,0,0,0,0,0,20% Synthetic Data,4
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,4
+0,1,61,0,0,0,2,0,0,0,20% Synthetic Data,4
+2,1,0,48,0,0,1,0,2,0,20% Synthetic Data,4
+0,0,0,1,49,0,0,0,0,0,20% Synthetic Data,4
+1,0,1,0,0,35,0,0,1,0,20% Synthetic Data,4
+2,0,4,0,1,0,44,0,0,0,20% Synthetic Data,4
+0,0,0,0,1,0,0,60,0,0,20% Synthetic Data,4
+1,0,0,1,0,0,0,0,49,0,20% Synthetic Data,4
+1,0,0,0,0,0,0,0,0,58,20% Synthetic Data,4
+56,0,1,0,0,1,0,0,0,0,30% Synthetic Data,4
+0,53,0,0,0,1,0,0,0,0,30% Synthetic Data,4
+0,1,61,0,0,0,2,0,0,0,30% Synthetic Data,4
+1,2,0,49,1,0,1,0,0,0,30% Synthetic Data,4
+0,0,0,0,48,0,1,1,0,0,30% Synthetic Data,4
+0,1,0,0,0,36,0,0,1,0,30% Synthetic Data,4
+1,0,4,0,1,0,45,0,0,0,30% Synthetic Data,4
+0,0,0,0,0,0,0,61,0,0,30% Synthetic Data,4
+0,0,0,0,0,0,0,0,51,0,30% Synthetic Data,4
+0,0,0,1,0,0,0,0,0,58,30% Synthetic Data,4
+56,0,0,1,0,0,0,0,1,0,40% Synthetic Data,4
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,4
+0,1,60,0,0,0,3,0,0,0,40% Synthetic Data,4
+2,2,0,49,1,0,0,0,0,0,40% Synthetic Data,4
+0,0,0,0,50,0,0,0,0,0,40% Synthetic Data,4
+0,1,0,0,0,37,0,0,0,0,40% Synthetic Data,4
+1,0,3,0,1,0,46,0,0,0,40% Synthetic Data,4
+0,0,0,0,1,0,0,60,0,0,40% Synthetic Data,4
+0,0,1,2,0,0,0,0,48,0,40% Synthetic Data,4
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,4
+56,0,0,1,0,1,0,0,0,0,50% Synthetic Data,4
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,4
+0,0,62,0,0,0,2,0,0,0,50% Synthetic Data,4
+3,2,0,49,0,0,0,0,0,0,50% Synthetic Data,4
+0,0,0,1,49,0,0,0,0,0,50% Synthetic Data,4
+1,1,0,0,0,36,0,0,0,0,50% Synthetic Data,4
+2,0,6,0,1,0,42,0,0,0,50% Synthetic Data,4
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,4
+1,0,0,1,0,0,0,0,49,0,50% Synthetic Data,4
+0,0,0,0,0,0,0,0,0,59,50% Synthetic Data,4
+56,0,1,0,0,0,0,0,1,0,5% Synthetic + Geometric,4
+0,53,0,0,0,1,0,0,0,0,5% Synthetic + Geometric,4
+0,0,61,1,0,0,2,0,0,0,5% Synthetic + Geometric,4
+0,1,0,52,1,0,0,0,0,0,5% Synthetic + Geometric,4
+0,0,0,0,49,0,0,1,0,0,5% Synthetic + Geometric,4
+1,0,0,0,0,37,0,0,0,0,5% Synthetic + Geometric,4
+1,0,4,0,1,0,45,0,0,0,5% Synthetic + Geometric,4
+0,0,0,0,0,0,0,61,0,0,5% Synthetic + Geometric,4
+0,0,0,0,0,0,0,0,51,0,5% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,4
+58,0,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,4
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,4
+0,0,63,0,0,0,1,0,0,0,10% Synthetic + Geometric,4
+1,1,0,50,1,0,1,0,0,0,10% Synthetic + Geometric,4
+0,0,0,1,49,0,0,0,0,0,10% Synthetic + Geometric,4
+1,0,1,0,0,36,0,0,0,0,10% Synthetic + Geometric,4
+0,1,3,0,1,0,46,0,0,0,10% Synthetic + Geometric,4
+0,0,0,0,1,0,0,60,0,0,10% Synthetic + Geometric,4
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,0,58,10% Synthetic + Geometric,4
+57,0,1,0,0,0,0,0,0,0,20% Synthetic + Geometric,4
+0,53,0,0,0,1,0,0,0,0,20% Synthetic + Geometric,4
+0,0,61,1,0,0,2,0,0,0,20% Synthetic + Geometric,4
+0,0,0,50,1,0,1,0,2,0,20% Synthetic + Geometric,4
+0,0,0,0,50,0,0,0,0,0,20% Synthetic + Geometric,4
+1,1,0,0,0,36,0,0,0,0,20% Synthetic + Geometric,4
+1,0,2,1,1,0,46,0,0,0,20% Synthetic + Geometric,4
+0,0,0,0,1,0,0,60,0,0,20% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,50,0,20% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,0,58,20% Synthetic + Geometric,4
+58,0,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,4
+0,52,0,0,0,2,0,0,0,0,30% Synthetic + Geometric,4
+0,1,54,2,1,0,1,4,1,0,30% Synthetic + Geometric,4
+1,0,0,51,1,0,1,0,0,0,30% Synthetic + Geometric,4
+0,0,0,1,49,0,0,0,0,0,30% Synthetic + Geometric,4
+1,0,0,0,0,37,0,0,0,0,30% Synthetic + Geometric,4
+1,0,2,1,1,0,45,1,0,0,30% Synthetic + Geometric,4
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,4
+1,0,0,0,0,1,0,0,49,0,30% Synthetic + Geometric,4
+0,0,0,0,0,0,0,0,0,59,30% Synthetic + Geometric,4
+58,0,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,4
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,4
+0,0,62,0,0,0,2,0,0,0,40% Synthetic + Geometric,4
+0,0,0,53,1,0,0,0,0,0,40% Synthetic + Geometric,4
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,4
+0,0,1,0,0,37,0,0,0,0,40% Synthetic + Geometric,4
+1,0,2,0,1,0,47,0,0,0,40% Synthetic + Geometric,4
+0,0,0,0,1,0,0,60,0,0,40% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,50,0,40% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,0,58,40% Synthetic + Geometric,4
+57,0,0,0,0,0,0,0,1,0,50% Synthetic + Geometric,4
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,4
+0,1,60,0,0,0,3,0,0,0,50% Synthetic + Geometric,4
+0,0,0,51,1,0,1,0,1,0,50% Synthetic + Geometric,4
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,4
+0,1,1,0,0,36,0,0,0,0,50% Synthetic + Geometric,4
+1,0,2,1,1,0,46,0,0,0,50% Synthetic + Geometric,4
+0,0,0,1,2,0,0,58,0,0,50% Synthetic + Geometric,4
+0,0,0,1,0,0,0,0,50,0,50% Synthetic + Geometric,4
+0,0,0,0,0,0,0,0,1,58,50% Synthetic + Geometric,4
+56,0,1,0,0,0,1,0,0,0,No Augmentation,5
+0,54,0,0,0,0,0,0,0,0,No Augmentation,5
+0,0,63,0,0,0,1,0,0,0,No Augmentation,5
+3,1,0,48,1,0,1,0,0,0,No Augmentation,5
+0,0,0,0,50,0,0,0,0,0,No Augmentation,5
+0,1,0,0,0,37,0,0,0,0,No Augmentation,5
+1,0,2,0,1,0,47,0,0,0,No Augmentation,5
+0,0,0,0,1,0,0,60,0,0,No Augmentation,5
+1,0,0,2,0,0,0,0,48,0,No Augmentation,5
+1,0,0,0,0,0,0,0,0,58,No Augmentation,5
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,5
+0,53,0,0,0,1,0,0,0,0,Geometric Augmentation,5
+0,0,64,0,0,0,0,0,0,0,Geometric Augmentation,5
+0,0,0,52,1,0,0,0,1,0,Geometric Augmentation,5
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,5
+0,0,2,0,0,36,0,0,0,0,Geometric Augmentation,5
+0,0,3,0,1,0,47,0,0,0,Geometric Augmentation,5
+0,0,0,0,1,0,0,60,0,0,Geometric Augmentation,5
+1,0,0,1,0,0,0,0,49,0,Geometric Augmentation,5
+1,0,0,0,0,0,0,0,0,58,Geometric Augmentation,5
+57,0,0,0,0,1,0,0,0,0,5% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,5
+0,0,60,1,1,0,2,0,0,0,5% Synthetic Data,5
+1,1,0,52,0,0,0,0,0,0,5% Synthetic Data,5
+0,0,0,1,48,0,1,0,0,0,5% Synthetic Data,5
+0,0,2,0,0,36,0,0,0,0,5% Synthetic Data,5
+1,0,4,0,1,0,45,0,0,0,5% Synthetic Data,5
+0,0,0,1,0,0,0,60,0,0,5% Synthetic Data,5
+0,0,0,0,0,0,0,0,51,0,5% Synthetic Data,5
+0,0,0,0,0,0,0,0,0,59,5% Synthetic Data,5
+58,0,0,0,0,0,0,0,0,0,10% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,5
+0,1,61,0,0,0,2,0,0,0,10% Synthetic Data,5
+2,1,0,50,1,0,0,0,0,0,10% Synthetic Data,5
+0,0,0,2,47,0,1,0,0,0,10% Synthetic Data,5
+0,1,0,0,0,36,0,0,1,0,10% Synthetic Data,5
+2,0,3,0,1,0,45,0,0,0,10% Synthetic Data,5
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,5
+1,0,0,2,0,0,0,0,48,0,10% Synthetic Data,5
+0,0,0,0,0,0,0,0,0,59,10% Synthetic Data,5
+57,0,0,1,0,0,0,0,0,0,20% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,5
+0,1,61,1,0,0,1,0,0,0,20% Synthetic Data,5
+1,1,0,51,1,0,0,0,0,0,20% Synthetic Data,5
+0,0,0,2,47,0,1,0,0,0,20% Synthetic Data,5
+1,1,1,0,0,34,0,0,1,0,20% Synthetic Data,5
+1,0,3,0,1,0,46,0,0,0,20% Synthetic Data,5
+0,0,0,0,0,0,0,61,0,0,20% Synthetic Data,5
+1,0,0,2,0,0,0,0,48,0,20% Synthetic Data,5
+0,0,0,0,0,0,0,0,0,59,20% Synthetic Data,5
+57,0,0,0,0,1,0,0,0,0,30% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,30% Synthetic Data,5
+0,0,58,0,0,1,3,2,0,0,30% Synthetic Data,5
+1,2,0,50,1,0,0,0,0,0,30% Synthetic Data,5
+0,0,0,1,49,0,0,0,0,0,30% Synthetic Data,5
+0,1,0,0,0,37,0,0,0,0,30% Synthetic Data,5
+2,0,5,0,1,0,43,0,0,0,30% Synthetic Data,5
+0,0,0,0,1,0,0,60,0,0,30% Synthetic Data,5
+1,0,1,2,0,0,0,0,47,0,30% Synthetic Data,5
+0,0,0,0,0,0,0,0,0,59,30% Synthetic Data,5
+57,0,0,0,0,0,0,0,1,0,40% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,5
+0,0,62,0,0,0,2,0,0,0,40% Synthetic Data,5
+2,1,0,50,1,0,0,0,0,0,40% Synthetic Data,5
+0,0,0,0,49,0,1,0,0,0,40% Synthetic Data,5
+0,0,1,0,0,37,0,0,0,0,40% Synthetic Data,5
+0,0,3,0,1,0,47,0,0,0,40% Synthetic Data,5
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,5
+0,0,0,1,0,1,0,0,49,0,40% Synthetic Data,5
+1,0,0,0,0,0,0,0,0,58,40% Synthetic Data,5
+57,0,0,1,0,0,0,0,0,0,50% Synthetic Data,5
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,5
+0,1,60,1,0,0,2,0,0,0,50% Synthetic Data,5
+2,1,0,50,1,0,0,0,0,0,50% Synthetic Data,5
+0,0,0,0,48,0,2,0,0,0,50% Synthetic Data,5
+1,0,2,0,0,34,0,0,1,0,50% Synthetic Data,5
+1,0,2,0,1,0,47,0,0,0,50% Synthetic Data,5
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,5
+3,0,0,2,0,0,0,0,46,0,50% Synthetic Data,5
+0,0,0,0,0,0,0,0,0,59,50% Synthetic Data,5
+57,0,1,0,0,0,0,0,0,0,5% Synthetic + Geometric,5
+0,53,1,0,0,0,0,0,0,0,5% Synthetic + Geometric,5
+0,0,62,1,0,0,1,0,0,0,5% Synthetic + Geometric,5
+2,0,0,51,1,0,0,0,0,0,5% Synthetic + Geometric,5
+0,0,0,1,48,0,1,0,0,0,5% Synthetic + Geometric,5
+1,1,0,0,0,36,0,0,0,0,5% Synthetic + Geometric,5
+1,0,3,0,1,0,46,0,0,0,5% Synthetic + Geometric,5
+0,0,0,0,1,0,0,60,0,0,5% Synthetic + Geometric,5
+0,0,0,0,0,0,0,0,51,0,5% Synthetic + Geometric,5
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,5
+57,0,0,1,0,0,0,0,0,0,10% Synthetic + Geometric,5
+0,53,0,0,0,1,0,0,0,0,10% Synthetic + Geometric,5
+0,0,62,0,0,0,2,0,0,0,10% Synthetic + Geometric,5
+0,0,0,52,1,0,0,0,1,0,10% Synthetic + Geometric,5
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,5
+0,0,2,0,0,35,0,0,1,0,10% Synthetic + Geometric,5
+1,0,1,1,1,0,47,0,0,0,10% Synthetic + Geometric,5
+0,0,0,0,3,0,0,58,0,0,10% Synthetic + Geometric,5
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,5
+1,0,0,0,0,0,0,0,0,58,10% Synthetic + Geometric,5
+58,0,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,5
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,5
+0,0,60,0,0,0,3,0,1,0,20% Synthetic + Geometric,5
+1,0,0,51,1,0,0,0,1,0,20% Synthetic + Geometric,5
+0,0,0,1,49,0,0,0,0,0,20% Synthetic + Geometric,5
+1,0,0,0,0,37,0,0,0,0,20% Synthetic + Geometric,5
+1,0,1,1,1,0,47,0,0,0,20% Synthetic + Geometric,5
+0,0,0,1,1,0,0,59,0,0,20% Synthetic + Geometric,5
+0,0,0,0,0,0,0,0,51,0,20% Synthetic + Geometric,5
+0,0,0,0,0,1,0,0,1,57,20% Synthetic + Geometric,5
+56,0,1,1,0,0,0,0,0,0,30% Synthetic + Geometric,5
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,5
+0,2,60,0,0,0,1,0,1,0,30% Synthetic + Geometric,5
+1,1,0,50,1,0,0,0,1,0,30% Synthetic + Geometric,5
+0,0,0,1,49,0,0,0,0,0,30% Synthetic + Geometric,5
+2,1,0,0,0,34,0,0,0,1,30% Synthetic + Geometric,5
+1,0,3,0,1,0,46,0,0,0,30% Synthetic + Geometric,5
+0,0,0,0,0,0,0,61,0,0,30% Synthetic + Geometric,5
+0,0,0,1,0,0,0,0,50,0,30% Synthetic + Geometric,5
+1,0,0,0,0,0,0,0,0,58,30% Synthetic + Geometric,5
+58,0,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,5
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,5
+0,0,60,1,1,0,1,0,1,0,40% Synthetic + Geometric,5
+0,0,0,53,1,0,0,0,0,0,40% Synthetic + Geometric,5
+0,0,0,0,50,0,0,0,0,0,40% Synthetic + Geometric,5
+0,1,1,0,0,35,0,0,1,0,40% Synthetic + Geometric,5
+1,0,3,0,1,0,46,0,0,0,40% Synthetic + Geometric,5
+0,0,0,0,3,0,0,58,0,0,40% Synthetic + Geometric,5
+0,0,0,0,0,0,0,0,51,0,40% Synthetic + Geometric,5
+0,0,0,0,0,0,0,0,1,58,40% Synthetic + Geometric,5
+57,0,1,0,0,0,0,0,0,0,50% Synthetic + Geometric,5
+0,53,0,0,0,1,0,0,0,0,50% Synthetic + Geometric,5
+0,0,62,1,0,0,1,0,0,0,50% Synthetic + Geometric,5
+1,1,0,51,1,0,0,0,0,0,50% Synthetic + Geometric,5
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,5
+1,0,1,0,0,36,0,0,0,0,50% Synthetic + Geometric,5
+1,0,4,0,1,0,45,0,0,0,50% Synthetic + Geometric,5
+0,0,0,0,2,0,0,59,0,0,50% Synthetic + Geometric,5
+0,0,0,1,0,0,0,0,50,0,50% Synthetic + Geometric,5
+0,0,1,1,0,0,0,0,0,57,50% Synthetic + Geometric,5
+57,0,1,0,0,0,0,0,0,0,No Augmentation,6
+0,54,0,0,0,0,0,0,0,0,No Augmentation,6
+0,0,63,0,0,0,1,0,0,0,No Augmentation,6
+1,0,0,53,0,0,0,0,0,0,No Augmentation,6
+0,0,0,1,49,0,0,0,0,0,No Augmentation,6
+0,0,2,0,0,35,0,0,1,0,No Augmentation,6
+1,0,4,1,1,0,44,0,0,0,No Augmentation,6
+0,0,0,0,1,0,0,60,0,0,No Augmentation,6
+0,0,0,3,0,0,0,0,48,0,No Augmentation,6
+1,0,0,0,0,0,0,0,0,58,No Augmentation,6
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,6
+0,53,0,0,0,1,0,0,0,0,Geometric Augmentation,6
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,6
+0,1,0,51,1,0,0,0,1,0,Geometric Augmentation,6
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,6
+1,0,1,0,0,36,0,0,0,0,Geometric Augmentation,6
+1,0,2,0,1,0,47,0,0,0,Geometric Augmentation,6
+0,0,0,0,2,0,0,59,0,0,Geometric Augmentation,6
+0,0,0,1,0,0,0,0,50,0,Geometric Augmentation,6
+0,0,0,1,0,0,0,0,0,58,Geometric Augmentation,6
+57,0,1,0,0,0,0,0,0,0,5% Synthetic Data,6
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,6
+0,0,64,0,0,0,0,0,0,0,5% Synthetic Data,6
+2,2,0,48,1,0,1,0,0,0,5% Synthetic Data,6
+0,0,0,1,48,0,0,0,1,0,5% Synthetic Data,6
+0,1,0,0,0,37,0,0,0,0,5% Synthetic Data,6
+2,0,4,0,1,0,44,0,0,0,5% Synthetic Data,6
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,6
+1,0,0,1,0,0,0,0,49,0,5% Synthetic Data,6
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,6
+58,0,0,0,0,0,0,0,0,0,10% Synthetic Data,6
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,6
+0,1,61,1,0,0,1,0,0,0,10% Synthetic Data,6
+1,1,0,51,1,0,0,0,0,0,10% Synthetic Data,6
+0,0,0,1,49,0,0,0,0,0,10% Synthetic Data,6
+0,0,1,0,0,36,0,0,1,0,10% Synthetic Data,6
+1,0,5,0,1,0,44,0,0,0,10% Synthetic Data,6
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,6
+0,0,0,2,0,0,0,0,49,0,10% Synthetic Data,6
+1,0,0,0,0,0,0,0,0,58,10% Synthetic Data,6
+58,0,0,0,0,0,0,0,0,0,20% Synthetic Data,6
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,6
+0,0,62,1,0,0,1,0,0,0,20% Synthetic Data,6
+2,0,0,50,1,0,1,0,0,0,20% Synthetic Data,6
+0,0,0,1,48,0,1,0,0,0,20% Synthetic Data,6
+0,0,2,0,0,35,0,0,1,0,20% Synthetic Data,6
+1,0,4,0,1,0,45,0,0,0,20% Synthetic Data,6
+0,0,0,0,1,0,0,60,0,0,20% Synthetic Data,6
+1,0,0,0,0,0,0,0,50,0,20% Synthetic Data,6
+1,0,0,0,0,0,0,0,0,58,20% Synthetic Data,6
+56,0,0,0,0,0,1,0,1,0,30% Synthetic Data,6
+0,53,0,0,0,0,0,0,0,1,30% Synthetic Data,6
+0,1,61,0,0,0,2,0,0,0,30% Synthetic Data,6
+1,2,0,46,1,0,1,0,3,0,30% Synthetic Data,6
+0,0,0,1,49,0,0,0,0,0,30% Synthetic Data,6
+0,2,1,0,0,34,0,0,1,0,30% Synthetic Data,6
+1,0,5,0,1,0,44,0,0,0,30% Synthetic Data,6
+0,0,0,0,2,0,0,59,0,0,30% Synthetic Data,6
+0,0,0,1,0,0,0,0,50,0,30% Synthetic Data,6
+0,0,0,1,0,0,0,0,0,58,30% Synthetic Data,6
+58,0,0,0,0,0,0,0,0,0,40% Synthetic Data,6
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,6
+0,1,60,0,0,0,3,0,0,0,40% Synthetic Data,6
+1,3,0,46,1,0,1,0,2,0,40% Synthetic Data,6
+0,0,0,0,50,0,0,0,0,0,40% Synthetic Data,6
+1,1,2,0,0,34,0,0,0,0,40% Synthetic Data,6
+1,1,2,0,1,0,46,0,0,0,40% Synthetic Data,6
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,6
+1,0,0,2,0,0,0,0,48,0,40% Synthetic Data,6
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,6
+57,0,1,0,0,0,0,0,0,0,50% Synthetic Data,6
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,6
+0,0,62,0,0,0,2,0,0,0,50% Synthetic Data,6
+1,1,0,52,0,0,0,0,0,0,50% Synthetic Data,6
+0,0,0,0,50,0,0,0,0,0,50% Synthetic Data,6
+1,0,2,0,0,34,0,0,1,0,50% Synthetic Data,6
+2,1,3,0,1,0,44,0,0,0,50% Synthetic Data,6
+0,0,0,0,1,0,0,60,0,0,50% Synthetic Data,6
+2,0,0,1,0,0,0,0,48,0,50% Synthetic Data,6
+0,0,0,1,0,0,0,0,0,58,50% Synthetic Data,6
+56,0,1,0,0,1,0,0,0,0,5% Synthetic + Geometric,6
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,6
+0,0,63,0,0,0,1,0,0,0,5% Synthetic + Geometric,6
+0,0,0,52,1,0,0,0,1,0,5% Synthetic + Geometric,6
+0,0,0,0,50,0,0,0,0,0,5% Synthetic + Geometric,6
+0,0,0,0,0,38,0,0,0,0,5% Synthetic + Geometric,6
+0,0,2,0,1,0,48,0,0,0,5% Synthetic + Geometric,6
+0,0,0,0,1,0,0,60,0,0,5% Synthetic + Geometric,6
+0,0,0,2,0,0,0,0,49,0,5% Synthetic + Geometric,6
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,6
+57,0,1,0,0,0,0,0,0,0,10% Synthetic + Geometric,6
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,6
+0,0,61,1,0,0,2,0,0,0,10% Synthetic + Geometric,6
+0,2,0,50,1,0,0,0,1,0,10% Synthetic + Geometric,6
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,6
+1,1,0,0,0,36,0,0,0,0,10% Synthetic + Geometric,6
+1,0,2,0,1,0,47,0,0,0,10% Synthetic + Geometric,6
+0,0,0,0,2,0,0,59,0,0,10% Synthetic + Geometric,6
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,6
+0,0,0,1,0,0,0,0,1,57,10% Synthetic + Geometric,6
+57,0,0,0,0,0,1,0,0,0,20% Synthetic + Geometric,6
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,6
+0,0,62,0,0,0,1,0,1,0,20% Synthetic + Geometric,6
+1,1,0,50,1,0,0,0,1,0,20% Synthetic + Geometric,6
+0,0,0,0,50,0,0,0,0,0,20% Synthetic + Geometric,6
+1,0,1,0,0,35,0,0,1,0,20% Synthetic + Geometric,6
+1,0,1,0,1,0,48,0,0,0,20% Synthetic + Geometric,6
+0,0,0,0,2,0,0,59,0,0,20% Synthetic + Geometric,6
+0,0,0,0,0,0,0,0,51,0,20% Synthetic + Geometric,6
+0,0,0,1,0,0,0,0,0,58,20% Synthetic + Geometric,6
+57,0,1,0,0,0,0,0,0,0,30% Synthetic + Geometric,6
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,6
+0,0,59,1,1,0,1,1,1,0,30% Synthetic + Geometric,6
+1,1,0,51,1,0,0,0,0,0,30% Synthetic + Geometric,6
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,6
+1,1,0,0,0,36,0,0,0,0,30% Synthetic + Geometric,6
+1,0,4,1,1,0,44,0,0,0,30% Synthetic + Geometric,6
+0,0,0,0,0,0,0,61,0,0,30% Synthetic + Geometric,6
+0,0,0,3,0,1,0,0,47,0,30% Synthetic + Geometric,6
+0,0,0,0,0,0,0,0,0,59,30% Synthetic + Geometric,6
+57,0,0,1,0,0,0,0,0,0,40% Synthetic + Geometric,6
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,6
+0,0,61,1,0,0,2,0,0,0,40% Synthetic + Geometric,6
+1,0,0,52,1,0,0,0,0,0,40% Synthetic + Geometric,6
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,6
+1,1,0,0,0,35,0,0,1,0,40% Synthetic + Geometric,6
+1,1,2,0,1,0,46,0,0,0,40% Synthetic + Geometric,6
+0,0,0,1,1,0,0,59,0,0,40% Synthetic + Geometric,6
+0,0,0,0,0,0,0,0,51,0,40% Synthetic + Geometric,6
+0,0,0,1,0,0,0,0,0,58,40% Synthetic + Geometric,6
+57,0,1,0,0,0,0,0,0,0,50% Synthetic + Geometric,6
+0,53,0,0,0,1,0,0,0,0,50% Synthetic + Geometric,6
+0,1,60,1,0,0,2,0,0,0,50% Synthetic + Geometric,6
+0,0,0,52,1,0,0,0,1,0,50% Synthetic + Geometric,6
+0,0,0,1,49,0,0,0,0,0,50% Synthetic + Geometric,6
+1,1,0,0,0,35,0,0,1,0,50% Synthetic + Geometric,6
+1,1,2,0,1,0,46,0,0,0,50% Synthetic + Geometric,6
+0,0,0,0,2,0,0,59,0,0,50% Synthetic + Geometric,6
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,6
+0,0,0,1,0,0,0,0,0,58,50% Synthetic + Geometric,6
+56,0,1,0,0,1,0,0,0,0,No Augmentation,7
+0,54,0,0,0,0,0,0,0,0,No Augmentation,7
+0,0,63,0,0,0,1,0,0,0,No Augmentation,7
+0,0,0,53,1,0,0,0,0,0,No Augmentation,7
+0,0,0,1,48,0,1,0,0,0,No Augmentation,7
+1,0,2,0,0,35,0,0,0,0,No Augmentation,7
+1,0,3,0,1,0,46,0,0,0,No Augmentation,7
+0,0,0,0,1,0,0,60,0,0,No Augmentation,7
+1,0,0,1,0,1,0,0,48,0,No Augmentation,7
+1,0,0,0,0,0,0,0,0,58,No Augmentation,7
+56,0,1,0,0,0,1,0,0,0,Geometric Augmentation,7
+0,54,0,0,0,0,0,0,0,0,Geometric Augmentation,7
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,7
+0,1,0,52,1,0,0,0,0,0,Geometric Augmentation,7
+0,0,0,1,49,0,0,0,0,0,Geometric Augmentation,7
+1,0,1,0,0,36,0,0,0,0,Geometric Augmentation,7
+1,0,2,0,1,0,47,0,0,0,Geometric Augmentation,7
+0,0,0,0,2,0,0,59,0,0,Geometric Augmentation,7
+0,0,0,2,0,0,0,0,49,0,Geometric Augmentation,7
+0,0,0,1,0,0,0,0,0,58,Geometric Augmentation,7
+56,0,0,0,0,2,0,0,0,0,5% Synthetic Data,7
+0,53,0,0,0,1,0,0,0,0,5% Synthetic Data,7
+0,0,60,0,0,0,4,0,0,0,5% Synthetic Data,7
+2,2,0,48,1,0,0,0,1,0,5% Synthetic Data,7
+0,0,0,0,50,0,0,0,0,0,5% Synthetic Data,7
+0,1,0,0,0,36,0,0,1,0,5% Synthetic Data,7
+1,0,3,0,1,0,46,0,0,0,5% Synthetic Data,7
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,7
+1,0,1,1,0,0,0,0,48,0,5% Synthetic Data,7
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,7
+56,0,0,1,0,1,0,0,0,0,10% Synthetic Data,7
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,7
+0,0,62,1,0,0,1,0,0,0,10% Synthetic Data,7
+2,0,0,50,1,0,1,0,0,0,10% Synthetic Data,7
+0,0,0,0,50,0,0,0,0,0,10% Synthetic Data,7
+0,1,1,0,0,35,0,0,1,0,10% Synthetic Data,7
+2,0,3,0,1,0,45,0,0,0,10% Synthetic Data,7
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,7
+2,0,0,0,0,0,0,0,49,0,10% Synthetic Data,7
+1,0,0,0,0,0,0,0,0,58,10% Synthetic Data,7
+57,0,1,0,0,0,0,0,0,0,20% Synthetic Data,7
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,7
+0,0,60,1,1,0,2,0,0,0,20% Synthetic Data,7
+1,2,0,49,1,0,0,0,1,0,20% Synthetic Data,7
+0,0,0,0,50,0,0,0,0,0,20% Synthetic Data,7
+0,0,2,0,0,36,0,0,0,0,20% Synthetic Data,7
+1,0,3,1,1,0,44,0,1,0,20% Synthetic Data,7
+0,0,0,0,2,0,0,59,0,0,20% Synthetic Data,7
+0,0,0,0,0,0,0,0,51,0,20% Synthetic Data,7
+0,0,0,0,0,0,0,0,0,59,20% Synthetic Data,7
+57,0,1,0,0,0,0,0,0,0,30% Synthetic Data,7
+1,53,0,0,0,0,0,0,0,0,30% Synthetic Data,7
+0,0,62,0,0,0,2,0,0,0,30% Synthetic Data,7
+2,0,0,51,1,0,0,0,0,0,30% Synthetic Data,7
+0,0,0,1,47,0,2,0,0,0,30% Synthetic Data,7
+0,0,2,0,0,36,0,0,0,0,30% Synthetic Data,7
+2,0,5,0,1,0,43,0,0,0,30% Synthetic Data,7
+0,0,0,0,1,0,0,60,0,0,30% Synthetic Data,7
+1,0,0,1,0,0,0,0,49,0,30% Synthetic Data,7
+0,0,0,0,0,0,0,0,0,59,30% Synthetic Data,7
+57,0,0,1,0,0,0,0,0,0,40% Synthetic Data,7
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,7
+0,1,60,1,0,0,2,0,0,0,40% Synthetic Data,7
+2,2,0,47,1,0,1,0,1,0,40% Synthetic Data,7
+0,0,0,0,49,0,1,0,0,0,40% Synthetic Data,7
+0,1,1,0,0,35,0,0,1,0,40% Synthetic Data,7
+1,0,3,0,1,0,46,0,0,0,40% Synthetic Data,7
+0,0,0,0,0,0,0,61,0,0,40% Synthetic Data,7
+0,0,1,2,0,0,0,0,48,0,40% Synthetic Data,7
+1,0,0,0,0,0,0,0,0,58,40% Synthetic Data,7
+58,0,0,0,0,0,0,0,0,0,50% Synthetic Data,7
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,7
+0,0,62,0,0,0,2,0,0,0,50% Synthetic Data,7
+2,0,0,51,1,0,0,0,0,0,50% Synthetic Data,7
+0,0,0,1,48,0,1,0,0,0,50% Synthetic Data,7
+0,0,2,0,0,36,0,0,0,0,50% Synthetic Data,7
+1,0,5,0,1,0,44,0,0,0,50% Synthetic Data,7
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,7
+1,0,0,0,0,0,0,0,50,0,50% Synthetic Data,7
+0,0,0,0,0,0,0,0,0,59,50% Synthetic Data,7
+57,0,1,0,0,0,0,0,0,0,5% Synthetic + Geometric,7
+0,53,0,0,0,1,0,0,0,0,5% Synthetic + Geometric,7
+0,0,64,0,0,0,0,0,0,0,5% Synthetic + Geometric,7
+0,1,0,52,1,0,0,0,0,0,5% Synthetic + Geometric,7
+0,0,0,1,49,0,0,0,0,0,5% Synthetic + Geometric,7
+1,0,1,0,0,36,0,0,0,0,5% Synthetic + Geometric,7
+0,0,4,1,1,0,45,0,0,0,5% Synthetic + Geometric,7
+0,0,0,0,1,0,0,60,0,0,5% Synthetic + Geometric,7
+0,0,0,3,0,0,0,0,48,0,5% Synthetic + Geometric,7
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,7
+58,0,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,7
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,7
+0,1,62,0,0,0,1,0,0,0,10% Synthetic + Geometric,7
+0,0,0,52,1,0,0,0,1,0,10% Synthetic + Geometric,7
+0,0,0,1,49,0,0,0,0,0,10% Synthetic + Geometric,7
+1,1,0,0,0,36,0,0,0,0,10% Synthetic + Geometric,7
+0,1,3,0,1,0,46,0,0,0,10% Synthetic + Geometric,7
+0,0,0,0,0,0,0,61,0,0,10% Synthetic + Geometric,7
+1,0,0,0,0,0,0,0,50,0,10% Synthetic + Geometric,7
+1,0,0,0,0,0,0,0,0,58,10% Synthetic + Geometric,7
+58,0,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,7
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,7
+0,0,61,1,0,0,2,0,0,0,20% Synthetic + Geometric,7
+1,1,0,50,1,0,1,0,0,0,20% Synthetic + Geometric,7
+0,0,0,1,49,0,0,0,0,0,20% Synthetic + Geometric,7
+1,2,0,0,0,35,0,0,0,0,20% Synthetic + Geometric,7
+1,1,3,0,1,0,45,0,0,0,20% Synthetic + Geometric,7
+0,0,0,0,1,0,0,60,0,0,20% Synthetic + Geometric,7
+0,0,0,0,0,0,0,0,51,0,20% Synthetic + Geometric,7
+0,0,0,1,0,0,0,0,0,58,20% Synthetic + Geometric,7
+56,0,0,0,0,0,0,0,2,0,30% Synthetic + Geometric,7
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,7
+0,2,55,1,1,1,1,3,0,0,30% Synthetic + Geometric,7
+1,0,0,52,1,0,0,0,0,0,30% Synthetic + Geometric,7
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,7
+2,0,1,0,0,34,0,0,1,0,30% Synthetic + Geometric,7
+1,1,2,1,1,0,45,0,0,0,30% Synthetic + Geometric,7
+0,0,0,0,0,0,0,61,0,0,30% Synthetic + Geometric,7
+1,0,0,1,0,0,0,0,49,0,30% Synthetic + Geometric,7
+1,0,0,0,0,0,0,0,1,57,30% Synthetic + Geometric,7
+57,0,0,0,0,0,0,0,1,0,40% Synthetic + Geometric,7
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,7
+0,0,60,1,0,0,2,0,1,0,40% Synthetic + Geometric,7
+1,1,0,50,1,0,1,0,0,0,40% Synthetic + Geometric,7
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,7
+1,2,0,0,0,35,0,0,0,0,40% Synthetic + Geometric,7
+1,0,1,1,1,0,47,0,0,0,40% Synthetic + Geometric,7
+0,0,0,0,0,0,0,61,0,0,40% Synthetic + Geometric,7
+0,0,0,1,0,0,0,0,50,0,40% Synthetic + Geometric,7
+0,0,0,1,0,0,0,0,1,57,40% Synthetic + Geometric,7
+57,0,1,0,0,0,0,0,0,0,50% Synthetic + Geometric,7
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,7
+0,0,60,0,0,0,3,0,1,0,50% Synthetic + Geometric,7
+1,1,0,50,1,0,1,0,0,0,50% Synthetic + Geometric,7
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,7
+0,1,0,0,0,37,0,0,0,0,50% Synthetic + Geometric,7
+1,0,1,0,1,0,48,0,0,0,50% Synthetic + Geometric,7
+0,0,0,0,1,0,0,60,0,0,50% Synthetic + Geometric,7
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,7
+0,0,0,0,0,0,0,0,1,58,50% Synthetic + Geometric,7
+56,0,1,0,0,1,0,0,0,0,No Augmentation,8
+0,54,0,0,0,0,0,0,0,0,No Augmentation,8
+0,0,62,0,0,0,2,0,0,0,No Augmentation,8
+1,0,0,52,1,0,0,0,0,0,No Augmentation,8
+0,0,0,1,49,0,0,0,0,0,No Augmentation,8
+1,1,1,0,0,35,0,0,0,0,No Augmentation,8
+2,0,2,1,1,0,45,0,0,0,No Augmentation,8
+0,0,0,0,2,0,0,59,0,0,No Augmentation,8
+2,0,0,1,0,0,0,0,48,0,No Augmentation,8
+0,0,0,1,0,0,0,0,0,58,No Augmentation,8
+55,0,1,0,0,1,0,0,1,0,Geometric Augmentation,8
+0,53,0,0,0,1,0,0,0,0,Geometric Augmentation,8
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,8
+0,0,0,52,1,0,0,0,1,0,Geometric Augmentation,8
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,8
+0,0,2,0,0,36,0,0,0,0,Geometric Augmentation,8
+1,0,3,0,1,0,46,0,0,0,Geometric Augmentation,8
+0,0,0,0,1,0,0,60,0,0,Geometric Augmentation,8
+0,0,0,2,0,0,0,0,49,0,Geometric Augmentation,8
+0,0,0,1,0,0,0,0,0,58,Geometric Augmentation,8
+56,0,1,0,0,1,0,0,0,0,5% Synthetic Data,8
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,8
+0,0,61,1,0,0,2,0,0,0,5% Synthetic Data,8
+2,1,0,50,1,0,0,0,0,0,5% Synthetic Data,8
+0,0,0,1,49,0,0,0,0,0,5% Synthetic Data,8
+1,0,2,0,0,35,0,0,0,0,5% Synthetic Data,8
+2,0,1,0,1,0,47,0,0,0,5% Synthetic Data,8
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,8
+2,0,0,0,0,0,0,0,49,0,5% Synthetic Data,8
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,8
+57,0,0,1,0,0,0,0,0,0,10% Synthetic Data,8
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,8
+0,1,61,1,0,0,1,0,0,0,10% Synthetic Data,8
+2,0,0,52,0,0,0,0,0,0,10% Synthetic Data,8
+0,0,0,1,48,0,1,0,0,0,10% Synthetic Data,8
+0,0,1,0,0,36,0,0,1,0,10% Synthetic Data,8
+1,0,4,0,1,0,45,0,0,0,10% Synthetic Data,8
+0,0,0,0,1,0,0,60,0,0,10% Synthetic Data,8
+2,0,0,3,0,0,0,0,46,0,10% Synthetic Data,8
+0,0,0,0,0,0,0,0,0,59,10% Synthetic Data,8
+57,0,0,1,0,0,0,0,0,0,20% Synthetic Data,8
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,8
+0,1,60,0,0,0,2,0,1,0,20% Synthetic Data,8
+1,2,0,50,1,0,0,0,0,0,20% Synthetic Data,8
+0,0,0,1,49,0,0,0,0,0,20% Synthetic Data,8
+1,0,2,0,0,35,0,0,0,0,20% Synthetic Data,8
+1,0,3,0,1,0,46,0,0,0,20% Synthetic Data,8
+0,0,0,0,1,0,0,60,0,0,20% Synthetic Data,8
+0,0,0,3,0,0,0,0,48,0,20% Synthetic Data,8
+0,0,0,0,0,0,0,0,0,59,20% Synthetic Data,8
+56,0,0,0,0,0,0,0,2,0,30% Synthetic Data,8
+0,53,1,0,0,0,0,0,0,0,30% Synthetic Data,8
+0,0,62,0,0,0,2,0,0,0,30% Synthetic Data,8
+0,1,1,50,0,0,1,0,1,0,30% Synthetic Data,8
+0,0,0,1,48,0,0,1,0,0,30% Synthetic Data,8
+0,1,1,0,0,35,0,0,1,0,30% Synthetic Data,8
+1,0,8,0,1,0,41,0,0,0,30% Synthetic Data,8
+0,0,0,0,1,0,0,60,0,0,30% Synthetic Data,8
+1,0,1,2,0,0,0,0,47,0,30% Synthetic Data,8
+0,0,0,0,0,0,0,0,1,58,30% Synthetic Data,8
+57,0,1,0,0,0,0,0,0,0,40% Synthetic Data,8
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,8
+0,1,61,1,0,0,1,0,0,0,40% Synthetic Data,8
+2,1,0,50,1,0,0,0,0,0,40% Synthetic Data,8
+0,0,0,0,50,0,0,0,0,0,40% Synthetic Data,8
+0,1,0,0,0,36,0,0,1,0,40% Synthetic Data,8
+1,0,4,0,1,0,45,0,0,0,40% Synthetic Data,8
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,8
+2,0,0,3,0,0,0,0,46,0,40% Synthetic Data,8
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,8
+57,0,0,0,0,1,0,0,0,0,50% Synthetic Data,8
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,8
+0,0,61,1,0,0,2,0,0,0,50% Synthetic Data,8
+2,1,0,50,1,0,0,0,0,0,50% Synthetic Data,8
+0,0,0,1,48,0,1,0,0,0,50% Synthetic Data,8
+1,0,2,0,0,35,0,0,0,0,50% Synthetic Data,8
+1,0,4,0,1,0,45,0,0,0,50% Synthetic Data,8
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,8
+0,0,0,2,0,0,0,0,49,0,50% Synthetic Data,8
+1,0,0,0,0,0,0,0,0,58,50% Synthetic Data,8
+57,0,0,1,0,0,0,0,0,0,5% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,8
+0,2,61,0,0,0,1,0,0,0,5% Synthetic + Geometric,8
+2,1,0,50,1,0,0,0,0,0,5% Synthetic + Geometric,8
+0,0,0,0,50,0,0,0,0,0,5% Synthetic + Geometric,8
+0,2,0,0,0,36,0,0,0,0,5% Synthetic + Geometric,8
+1,0,1,0,1,0,48,0,0,0,5% Synthetic + Geometric,8
+0,0,0,0,0,0,0,61,0,0,5% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,50,0,5% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,8
+54,0,1,0,0,1,1,0,1,0,10% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,10% Synthetic + Geometric,8
+0,0,61,0,0,0,3,0,0,0,10% Synthetic + Geometric,8
+0,0,0,52,1,0,0,0,1,0,10% Synthetic + Geometric,8
+0,0,0,1,49,0,0,0,0,0,10% Synthetic + Geometric,8
+1,0,1,0,0,36,0,0,0,0,10% Synthetic + Geometric,8
+1,0,1,0,1,0,48,0,0,0,10% Synthetic + Geometric,8
+0,0,0,0,2,0,0,59,0,0,10% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,50,0,10% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,0,58,10% Synthetic + Geometric,8
+57,0,0,0,0,0,0,0,1,0,20% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,8
+0,0,63,0,0,0,1,0,0,0,20% Synthetic + Geometric,8
+0,1,0,52,1,0,0,0,0,0,20% Synthetic + Geometric,8
+0,0,0,0,50,0,0,0,0,0,20% Synthetic + Geometric,8
+1,2,0,0,0,34,0,0,1,0,20% Synthetic + Geometric,8
+1,0,2,1,1,0,46,0,0,0,20% Synthetic + Geometric,8
+0,0,0,0,1,0,0,60,0,0,20% Synthetic + Geometric,8
+0,0,0,0,0,0,0,0,51,0,20% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,1,57,20% Synthetic + Geometric,8
+57,0,1,0,0,0,0,0,0,0,30% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,30% Synthetic + Geometric,8
+0,1,61,0,0,0,2,0,0,0,30% Synthetic + Geometric,8
+1,0,0,51,1,0,0,1,0,0,30% Synthetic + Geometric,8
+0,0,0,0,50,0,0,0,0,0,30% Synthetic + Geometric,8
+1,1,0,0,0,35,0,0,1,0,30% Synthetic + Geometric,8
+1,0,2,0,1,0,47,0,0,0,30% Synthetic + Geometric,8
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,8
+0,0,0,2,0,0,0,0,49,0,30% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,1,57,30% Synthetic + Geometric,8
+57,0,1,0,0,0,0,0,0,0,40% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,8
+0,0,62,0,0,0,2,0,0,0,40% Synthetic + Geometric,8
+0,0,0,52,1,0,0,0,1,0,40% Synthetic + Geometric,8
+0,0,0,0,50,0,0,0,0,0,40% Synthetic + Geometric,8
+1,2,0,0,0,35,0,0,0,0,40% Synthetic + Geometric,8
+1,0,2,1,1,0,46,0,0,0,40% Synthetic + Geometric,8
+0,0,0,0,3,0,0,58,0,0,40% Synthetic + Geometric,8
+0,0,0,2,0,0,0,0,49,0,40% Synthetic + Geometric,8
+1,0,0,0,0,0,0,0,0,58,40% Synthetic + Geometric,8
+58,0,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,8
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,8
+0,0,62,0,0,1,1,0,0,0,50% Synthetic + Geometric,8
+1,1,0,51,1,0,0,0,0,0,50% Synthetic + Geometric,8
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,8
+1,1,0,0,0,36,0,0,0,0,50% Synthetic + Geometric,8
+1,0,3,1,1,0,45,0,0,0,50% Synthetic + Geometric,8
+0,0,0,0,2,0,0,59,0,0,50% Synthetic + Geometric,8
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,8
+0,0,0,1,0,0,0,0,0,58,50% Synthetic + Geometric,8
+57,0,0,0,0,1,0,0,0,0,No Augmentation,9
+0,53,0,0,0,1,0,0,0,0,No Augmentation,9
+0,0,63,0,0,0,1,0,0,0,No Augmentation,9
+1,0,0,52,0,0,0,0,1,0,No Augmentation,9
+0,0,0,1,48,0,1,0,0,0,No Augmentation,9
+1,0,1,0,0,36,0,0,0,0,No Augmentation,9
+1,0,3,0,1,0,46,0,0,0,No Augmentation,9
+0,0,0,0,2,0,0,59,0,0,No Augmentation,9
+0,0,0,1,0,0,0,0,50,0,No Augmentation,9
+1,0,0,0,0,0,0,0,0,58,No Augmentation,9
+54,0,1,0,0,1,0,0,2,0,Geometric Augmentation,9
+0,52,1,0,0,1,0,0,0,0,Geometric Augmentation,9
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,9
+1,0,0,52,1,0,0,0,0,0,Geometric Augmentation,9
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,9
+0,0,1,0,0,37,0,0,0,0,Geometric Augmentation,9
+0,0,4,0,1,0,46,0,0,0,Geometric Augmentation,9
+0,0,0,0,2,0,0,59,0,0,Geometric Augmentation,9
+0,0,0,1,0,0,0,0,50,0,Geometric Augmentation,9
+0,0,0,1,0,1,0,0,0,57,Geometric Augmentation,9
+57,0,1,0,0,0,0,0,0,0,5% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,9
+0,0,62,0,0,0,2,0,0,0,5% Synthetic Data,9
+1,0,0,50,1,0,1,0,1,0,5% Synthetic Data,9
+0,0,0,0,50,0,0,0,0,0,5% Synthetic Data,9
+1,0,2,0,0,34,0,0,1,0,5% Synthetic Data,9
+0,0,3,1,1,0,46,0,0,0,5% Synthetic Data,9
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,9
+0,0,0,1,0,0,0,0,50,0,5% Synthetic Data,9
+1,0,0,0,0,0,0,0,0,58,5% Synthetic Data,9
+58,0,0,0,0,0,0,0,0,0,10% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,9
+0,0,61,0,0,0,3,0,0,0,10% Synthetic Data,9
+1,1,0,49,1,0,1,0,1,0,10% Synthetic Data,9
+0,0,0,0,49,0,1,0,0,0,10% Synthetic Data,9
+0,0,2,0,0,36,0,0,0,0,10% Synthetic Data,9
+1,0,2,0,1,0,47,0,0,0,10% Synthetic Data,9
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,9
+1,0,0,2,0,0,0,0,48,0,10% Synthetic Data,9
+0,0,0,0,0,0,0,0,0,59,10% Synthetic Data,9
+57,0,0,1,0,0,0,0,0,0,20% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,9
+0,0,62,0,0,0,2,0,0,0,20% Synthetic Data,9
+2,2,0,48,1,0,0,0,1,0,20% Synthetic Data,9
+0,0,0,0,50,0,0,0,0,0,20% Synthetic Data,9
+0,0,2,0,0,34,0,0,2,0,20% Synthetic Data,9
+1,0,4,0,1,0,45,0,0,0,20% Synthetic Data,9
+0,0,0,0,2,0,0,59,0,0,20% Synthetic Data,9
+1,0,0,2,0,0,0,0,48,0,20% Synthetic Data,9
+0,0,0,0,0,0,0,0,0,59,20% Synthetic Data,9
+56,0,0,0,0,1,1,0,0,0,30% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,30% Synthetic Data,9
+0,0,60,1,0,0,2,1,0,0,30% Synthetic Data,9
+3,1,0,48,1,0,0,0,1,0,30% Synthetic Data,9
+0,0,0,0,50,0,0,0,0,0,30% Synthetic Data,9
+0,0,2,0,0,36,0,0,0,0,30% Synthetic Data,9
+0,0,3,0,1,0,47,0,0,0,30% Synthetic Data,9
+0,0,0,0,3,0,0,58,0,0,30% Synthetic Data,9
+1,0,0,1,0,0,0,0,49,0,30% Synthetic Data,9
+1,0,0,0,0,0,0,0,2,56,30% Synthetic Data,9
+57,0,0,1,0,0,0,0,0,0,40% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,9
+0,0,62,0,0,0,2,0,0,0,40% Synthetic Data,9
+2,0,0,51,1,0,0,0,0,0,40% Synthetic Data,9
+0,0,0,0,49,0,1,0,0,0,40% Synthetic Data,9
+0,0,2,0,0,36,0,0,0,0,40% Synthetic Data,9
+2,0,5,0,1,0,43,0,0,0,40% Synthetic Data,9
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,9
+1,0,0,1,0,1,0,0,48,0,40% Synthetic Data,9
+0,0,0,0,0,0,0,0,0,59,40% Synthetic Data,9
+56,0,0,1,0,0,0,0,1,0,50% Synthetic Data,9
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,9
+0,1,59,1,0,0,3,0,0,0,50% Synthetic Data,9
+2,2,0,49,1,0,0,0,0,0,50% Synthetic Data,9
+0,0,0,0,50,0,0,0,0,0,50% Synthetic Data,9
+1,0,2,0,0,33,0,0,2,0,50% Synthetic Data,9
+1,0,3,0,1,0,46,0,0,0,50% Synthetic Data,9
+0,0,0,0,1,0,0,60,0,0,50% Synthetic Data,9
+0,0,0,2,0,0,0,0,49,0,50% Synthetic Data,9
+0,0,0,0,0,0,0,0,0,59,50% Synthetic Data,9
+56,0,1,0,0,1,0,0,0,0,5% Synthetic + Geometric,9
+0,53,0,0,0,1,0,0,0,0,5% Synthetic + Geometric,9
+0,0,61,1,0,0,2,0,0,0,5% Synthetic + Geometric,9
+0,1,0,51,1,0,0,0,1,0,5% Synthetic + Geometric,9
+0,0,0,0,50,0,0,0,0,0,5% Synthetic + Geometric,9
+0,0,2,0,0,36,0,0,0,0,5% Synthetic + Geometric,9
+1,0,2,1,1,0,46,0,0,0,5% Synthetic + Geometric,9
+0,0,0,0,2,0,0,59,0,0,5% Synthetic + Geometric,9
+0,0,0,2,0,0,0,0,49,0,5% Synthetic + Geometric,9
+0,0,0,0,0,0,0,0,1,58,5% Synthetic + Geometric,9
+57,0,0,0,0,0,0,0,1,0,10% Synthetic + Geometric,9
+0,53,0,0,0,1,0,0,0,0,10% Synthetic + Geometric,9
+0,0,62,0,0,0,2,0,0,0,10% Synthetic + Geometric,9
+0,0,0,52,1,0,0,0,1,0,10% Synthetic + Geometric,9
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,9
+1,1,0,0,0,36,0,0,0,0,10% Synthetic + Geometric,9
+0,0,1,1,1,0,48,0,0,0,10% Synthetic + Geometric,9
+0,0,0,0,1,0,0,60,0,0,10% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,50,0,10% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,0,58,10% Synthetic + Geometric,9
+57,0,1,0,0,0,0,0,0,0,20% Synthetic + Geometric,9
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,9
+0,0,62,1,0,0,1,0,0,0,20% Synthetic + Geometric,9
+0,1,0,51,1,0,0,0,1,0,20% Synthetic + Geometric,9
+0,0,0,0,50,0,0,0,0,0,20% Synthetic + Geometric,9
+1,2,0,0,0,35,0,0,0,0,20% Synthetic + Geometric,9
+1,1,1,1,1,0,46,0,0,0,20% Synthetic + Geometric,9
+0,0,0,0,1,0,0,60,0,0,20% Synthetic + Geometric,9
+0,0,0,2,0,0,0,0,49,0,20% Synthetic + Geometric,9
+1,0,0,0,0,0,0,0,0,58,20% Synthetic + Geometric,9
+56,0,1,0,0,0,0,0,1,0,30% Synthetic + Geometric,9
+0,53,0,0,0,1,0,0,0,0,30% Synthetic + Geometric,9
+0,3,56,1,1,0,2,0,0,1,30% Synthetic + Geometric,9
+1,0,0,50,1,0,0,0,2,0,30% Synthetic + Geometric,9
+0,0,0,1,49,0,0,0,0,0,30% Synthetic + Geometric,9
+1,1,0,0,0,34,0,0,2,0,30% Synthetic + Geometric,9
+1,0,1,1,1,0,47,0,0,0,30% Synthetic + Geometric,9
+0,0,0,0,0,0,0,61,0,0,30% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,50,0,30% Synthetic + Geometric,9
+0,0,0,0,0,0,0,0,0,59,30% Synthetic + Geometric,9
+58,0,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,9
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,9
+0,0,61,1,0,0,2,0,0,0,40% Synthetic + Geometric,9
+1,1,0,51,1,0,0,0,0,0,40% Synthetic + Geometric,9
+0,0,0,0,50,0,0,0,0,0,40% Synthetic + Geometric,9
+0,2,0,0,0,35,0,0,1,0,40% Synthetic + Geometric,9
+1,0,2,1,1,0,46,0,0,0,40% Synthetic + Geometric,9
+0,0,0,0,2,0,0,59,0,0,40% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,50,0,40% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,0,58,40% Synthetic + Geometric,9
+58,0,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,9
+0,53,1,0,0,0,0,0,0,0,50% Synthetic + Geometric,9
+0,0,61,1,0,0,2,0,0,0,50% Synthetic + Geometric,9
+1,0,0,51,1,0,0,0,1,0,50% Synthetic + Geometric,9
+0,0,0,0,50,0,0,0,0,0,50% Synthetic + Geometric,9
+1,1,0,0,0,35,0,0,1,0,50% Synthetic + Geometric,9
+1,0,2,0,1,0,47,0,0,0,50% Synthetic + Geometric,9
+0,0,0,0,0,0,0,61,0,0,50% Synthetic + Geometric,9
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,9
+0,0,0,1,0,0,0,0,0,58,50% Synthetic + Geometric,9
+56,0,1,0,0,1,0,0,0,0,No Augmentation,10
+0,54,0,0,0,0,0,0,0,0,No Augmentation,10
+0,0,63,0,0,0,1,0,0,0,No Augmentation,10
+2,0,0,52,0,0,0,0,0,0,No Augmentation,10
+0,0,0,1,49,0,0,0,0,0,No Augmentation,10
+1,0,1,0,0,36,0,0,0,0,No Augmentation,10
+1,0,3,0,1,0,46,0,0,0,No Augmentation,10
+0,0,0,0,2,0,0,59,0,0,No Augmentation,10
+0,0,0,0,0,0,0,0,51,0,No Augmentation,10
+1,0,0,0,0,0,0,0,0,58,No Augmentation,10
+57,0,1,0,0,0,0,0,0,0,Geometric Augmentation,10
+0,53,0,0,0,1,0,0,0,0,Geometric Augmentation,10
+0,0,63,0,0,0,1,0,0,0,Geometric Augmentation,10
+0,0,0,52,1,0,0,0,1,0,Geometric Augmentation,10
+0,0,0,0,50,0,0,0,0,0,Geometric Augmentation,10
+0,0,0,0,0,38,0,0,0,0,Geometric Augmentation,10
+0,0,4,0,1,0,46,0,0,0,Geometric Augmentation,10
+0,0,0,0,0,0,0,61,0,0,Geometric Augmentation,10
+0,0,0,2,0,0,0,0,49,0,Geometric Augmentation,10
+0,0,0,0,0,1,0,0,1,57,Geometric Augmentation,10
+58,0,0,0,0,0,0,0,0,0,5% Synthetic Data,10
+0,54,0,0,0,0,0,0,0,0,5% Synthetic Data,10
+0,0,62,0,0,0,2,0,0,0,5% Synthetic Data,10
+1,1,0,50,0,0,1,0,1,0,5% Synthetic Data,10
+0,0,0,0,49,0,1,0,0,0,5% Synthetic Data,10
+0,1,1,0,0,35,0,0,1,0,5% Synthetic Data,10
+1,0,2,0,1,0,46,1,0,0,5% Synthetic Data,10
+0,0,0,0,1,0,0,60,0,0,5% Synthetic Data,10
+1,0,0,3,0,0,0,0,47,0,5% Synthetic Data,10
+0,0,0,0,0,0,0,0,0,59,5% Synthetic Data,10
+57,0,0,1,0,0,0,0,0,0,10% Synthetic Data,10
+0,54,0,0,0,0,0,0,0,0,10% Synthetic Data,10
+0,0,62,0,0,0,2,0,0,0,10% Synthetic Data,10
+0,0,0,52,1,0,0,0,1,0,10% Synthetic Data,10
+0,0,0,0,50,0,0,0,0,0,10% Synthetic Data,10
+0,1,0,0,0,36,0,0,1,0,10% Synthetic Data,10
+1,0,4,1,1,0,44,0,0,0,10% Synthetic Data,10
+0,0,0,0,2,0,0,59,0,0,10% Synthetic Data,10
+0,0,0,2,0,0,0,0,49,0,10% Synthetic Data,10
+1,0,0,0,0,0,0,0,0,58,10% Synthetic Data,10
+57,0,0,1,0,0,0,0,0,0,20% Synthetic Data,10
+0,54,0,0,0,0,0,0,0,0,20% Synthetic Data,10
+0,1,60,0,0,0,3,0,0,0,20% Synthetic Data,10
+2,0,0,51,1,0,0,0,0,0,20% Synthetic Data,10
+0,0,0,0,49,0,1,0,0,0,20% Synthetic Data,10
+0,1,1,0,0,36,0,0,0,0,20% Synthetic Data,10
+2,0,3,0,1,0,45,0,0,0,20% Synthetic Data,10
+0,0,0,0,2,0,0,59,0,0,20% Synthetic Data,10
+1,0,0,2,0,0,0,0,48,0,20% Synthetic Data,10
+1,0,0,0,0,0,0,0,0,58,20% Synthetic Data,10
+57,0,0,1,0,0,0,0,0,0,30% Synthetic Data,10
+0,53,0,0,0,0,0,0,0,1,30% Synthetic Data,10
+0,1,61,1,0,0,0,1,0,0,30% Synthetic Data,10
+3,1,0,49,1,0,0,0,0,0,30% Synthetic Data,10
+0,0,0,0,48,0,0,2,0,0,30% Synthetic Data,10
+2,0,1,0,0,35,0,0,0,0,30% Synthetic Data,10
+3,0,4,0,1,0,43,0,0,0,30% Synthetic Data,10
+0,0,0,0,0,0,0,61,0,0,30% Synthetic Data,10
+1,0,0,4,0,0,0,0,46,0,30% Synthetic Data,10
+0,0,0,1,0,0,0,0,1,57,30% Synthetic Data,10
+57,0,1,0,0,0,0,0,0,0,40% Synthetic Data,10
+0,54,0,0,0,0,0,0,0,0,40% Synthetic Data,10
+0,1,59,0,0,0,4,0,0,0,40% Synthetic Data,10
+1,1,0,51,1,0,0,0,0,0,40% Synthetic Data,10
+0,0,0,1,49,0,0,0,0,0,40% Synthetic Data,10
+0,0,2,0,0,35,0,0,1,0,40% Synthetic Data,10
+1,0,3,0,1,0,46,0,0,0,40% Synthetic Data,10
+0,0,0,0,2,0,0,59,0,0,40% Synthetic Data,10
+0,0,0,1,0,0,0,0,50,0,40% Synthetic Data,10
+1,0,0,0,0,0,0,0,0,58,40% Synthetic Data,10
+56,0,0,1,0,1,0,0,0,0,50% Synthetic Data,10
+0,54,0,0,0,0,0,0,0,0,50% Synthetic Data,10
+0,0,59,0,1,0,4,0,0,0,50% Synthetic Data,10
+2,0,0,50,1,0,1,0,0,0,50% Synthetic Data,10
+0,0,0,0,50,0,0,0,0,0,50% Synthetic Data,10
+0,1,1,0,0,35,0,0,1,0,50% Synthetic Data,10
+1,0,3,1,1,0,45,0,0,0,50% Synthetic Data,10
+0,0,0,0,2,0,0,59,0,0,50% Synthetic Data,10
+0,0,0,1,0,0,0,0,50,0,50% Synthetic Data,10
+1,0,0,0,0,0,0,0,0,58,50% Synthetic Data,10
+55,0,1,0,0,1,0,0,1,0,5% Synthetic + Geometric,10
+0,54,0,0,0,0,0,0,0,0,5% Synthetic + Geometric,10
+0,0,62,0,1,0,1,0,0,0,5% Synthetic + Geometric,10
+0,0,0,53,1,0,0,0,0,0,5% Synthetic + Geometric,10
+0,0,0,0,50,0,0,0,0,0,5% Synthetic + Geometric,10
+1,0,1,0,0,36,0,0,0,0,5% Synthetic + Geometric,10
+0,1,2,0,1,0,47,0,0,0,5% Synthetic + Geometric,10
+0,0,0,0,2,0,0,59,0,0,5% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,50,0,5% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,0,58,5% Synthetic + Geometric,10
+54,0,1,0,0,1,0,0,1,1,10% Synthetic + Geometric,10
+0,53,0,0,0,1,0,0,0,0,10% Synthetic + Geometric,10
+0,0,61,1,0,0,2,0,0,0,10% Synthetic + Geometric,10
+0,0,0,52,1,0,0,0,1,0,10% Synthetic + Geometric,10
+0,0,0,0,50,0,0,0,0,0,10% Synthetic + Geometric,10
+1,0,1,0,0,35,0,0,1,0,10% Synthetic + Geometric,10
+0,0,2,0,1,0,48,0,0,0,10% Synthetic + Geometric,10
+0,0,0,0,2,0,0,59,0,0,10% Synthetic + Geometric,10
+0,0,0,0,0,0,0,0,51,0,10% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,0,58,10% Synthetic + Geometric,10
+56,0,1,0,0,0,0,0,1,0,20% Synthetic + Geometric,10
+0,54,0,0,0,0,0,0,0,0,20% Synthetic + Geometric,10
+0,0,63,1,0,0,0,0,0,0,20% Synthetic + Geometric,10
+0,0,0,52,1,0,0,0,1,0,20% Synthetic + Geometric,10
+0,0,0,2,48,0,0,0,0,0,20% Synthetic + Geometric,10
+1,1,0,0,0,36,0,0,0,0,20% Synthetic + Geometric,10
+1,0,4,1,1,0,44,0,0,0,20% Synthetic + Geometric,10
+0,0,0,0,0,0,0,61,0,0,20% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,50,0,20% Synthetic + Geometric,10
+0,0,0,0,0,0,0,0,2,57,20% Synthetic + Geometric,10
+57,0,1,0,0,0,0,0,0,0,30% Synthetic + Geometric,10
+0,52,0,0,0,2,0,0,0,0,30% Synthetic + Geometric,10
+0,1,59,1,0,0,2,1,0,0,30% Synthetic + Geometric,10
+0,0,0,52,1,0,0,0,1,0,30% Synthetic + Geometric,10
+0,0,0,2,48,0,0,0,0,0,30% Synthetic + Geometric,10
+1,1,0,0,0,36,0,0,0,0,30% Synthetic + Geometric,10
+1,1,3,1,1,0,44,0,0,0,30% Synthetic + Geometric,10
+0,0,0,0,1,0,0,60,0,0,30% Synthetic + Geometric,10
+0,0,0,2,0,0,0,0,49,0,30% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,1,57,30% Synthetic + Geometric,10
+56,0,0,1,0,1,0,0,0,0,40% Synthetic + Geometric,10
+0,54,0,0,0,0,0,0,0,0,40% Synthetic + Geometric,10
+0,0,62,0,0,0,2,0,0,0,40% Synthetic + Geometric,10
+0,1,0,51,1,0,0,0,1,0,40% Synthetic + Geometric,10
+0,0,0,1,49,0,0,0,0,0,40% Synthetic + Geometric,10
+0,1,1,0,0,36,0,0,0,0,40% Synthetic + Geometric,10
+1,0,2,0,1,0,47,0,0,0,40% Synthetic + Geometric,10
+0,0,0,0,1,0,0,60,0,0,40% Synthetic + Geometric,10
+0,0,0,2,0,0,0,0,49,0,40% Synthetic + Geometric,10
+0,0,0,1,0,0,0,0,0,58,40% Synthetic + Geometric,10
+58,0,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,10
+0,54,0,0,0,0,0,0,0,0,50% Synthetic + Geometric,10
+0,1,59,1,0,0,3,0,0,0,50% Synthetic + Geometric,10
+0,1,0,51,1,0,0,0,1,0,50% Synthetic + Geometric,10
+0,0,0,1,49,0,0,0,0,0,50% Synthetic + Geometric,10
+0,2,0,0,0,36,0,0,0,0,50% Synthetic + Geometric,10
+1,0,2,0,1,0,47,0,0,0,50% Synthetic + Geometric,10
+0,0,0,0,1,0,0,60,0,0,50% Synthetic + Geometric,10
+0,0,0,0,0,0,0,0,51,0,50% Synthetic + Geometric,10
+0,0,0,0,0,0,0,0,1,58,50% Synthetic + Geometric,10
