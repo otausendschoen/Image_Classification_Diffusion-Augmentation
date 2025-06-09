@@ -80,6 +80,6 @@ Results from all experimental runs:
 ---
 
 
-## 🐳 Running with Docker (Optional)
+## Running with Docker (Optional)
 
 To run training and inference on a GPU machine, please refer to the README in the docker folder
