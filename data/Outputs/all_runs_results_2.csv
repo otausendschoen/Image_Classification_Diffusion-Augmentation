@@ -1,0 +1,21 @@
+experiment,best_val_acc,run_id,experiment_type
+5% Synthetic Data + Geo Aug,0.9840740740740741,1,geo_synth
+10% Synthetic Data + Geo Aug,0.9866666666666667,1,geo_synth
+5% Synthetic Data + Geo Aug,0.9866666666666667,2,geo_synth
+10% Synthetic Data + Geo Aug,0.9829629629629629,2,geo_synth
+5% Synthetic Data + Geo Aug,0.9855555555555555,3,geo_synth
+10% Synthetic Data + Geo Aug,0.9844444444444445,3,geo_synth
+5% Synthetic Data + Geo Aug,0.987037037037037,4,geo_synth
+10% Synthetic Data + Geo Aug,0.9833333333333333,4,geo_synth
+5% Synthetic Data + Geo Aug,0.9855555555555555,5,geo_synth
+10% Synthetic Data + Geo Aug,0.9840740740740741,5,geo_synth
+5% Synthetic Data + Geo Aug,0.9859259259259259,6,geo_synth
+10% Synthetic Data + Geo Aug,0.9833333333333333,6,geo_synth
+5% Synthetic Data + Geo Aug,0.9885185185185185,7,geo_synth
+10% Synthetic Data + Geo Aug,0.9840740740740741,7,geo_synth
+5% Synthetic Data + Geo Aug,0.9844444444444445,8,geo_synth
+10% Synthetic Data + Geo Aug,0.9829629629629629,8,geo_synth
+5% Synthetic Data + Geo Aug,0.9877777777777778,9,geo_synth
+10% Synthetic Data + Geo Aug,0.9840740740740741,9,geo_synth
+5% Synthetic Data + Geo Aug,0.9840740740740741,10,geo_synth
+10% Synthetic Data + Geo Aug,0.9840740740740741,10,geo_synth
